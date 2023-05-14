@@ -1,0 +1,4 @@
+NGameplay = {
+	
+		LEADER_CAPACITY_BASE = 12 		# Base leader cap
+}
